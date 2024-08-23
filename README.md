@@ -20,6 +20,24 @@ This project is a modern, interactive portfolio website built with React, Materi
 - React Three Drei
 - Google Fonts
 
+## Dependencies
+
+This project relies on the following main dependencies:
+
+- React
+- @mui/material
+- @emotion/react
+- @emotion/styled
+- @react-three/fiber
+- @react-three/drei
+- three
+- @fontsource/roboto
+- @fontsource/playfair-display
+- @fontsource/montserrat
+- @fontsource/pacifico
+
+For a complete list of dependencies and their versions, refer to the `package.json` file.
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
@@ -43,12 +61,25 @@ Before you begin, ensure you have the following installed:
    npm install
    ```
 
+   Alternatively, if you prefer using Yarn:
+   ```
+   yarn install
+   ```
+
+This will install all the necessary dependencies listed in the `package.json` file.
+
 ## Running the Application
 
 To start the development server, run:
 
 ```
 npm start
+```
+
+Or if you're using Yarn:
+
+```
+yarn start
 ```
 
 The application will be available at `http://localhost:3000`.
@@ -75,6 +106,12 @@ To build the project for production, run:
 
 ```
 npm run build
+```
+
+Or with Yarn:
+
+```
+yarn build
 ```
 
 This will create a `build` directory with optimized production-ready files. You can then deploy this directory to your preferred hosting platform.
