@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { AppBar, Toolbar, Typography, Container, Grid, Card, CardContent, Button, Box, Tabs, Tab, useTheme, useMediaQuery, ThemeProvider, createTheme } from '@mui/material';
+import { AppBar, Toolbar, Typography, Container, Grid, Card, CardContent, Button, Box, Tabs, Tab, useMediaQuery, ThemeProvider, createTheme } from '@mui/material';
 import { Canvas, useFrame } from '@react-three/fiber';
 import { OrbitControls, Text } from '@react-three/drei';
 import { deepPurple, amber, teal } from '@mui/material/colors';
