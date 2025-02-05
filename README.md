@@ -83,10 +83,6 @@ This will create a `build` directory with optimized production-ready files. You 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions or want to reach out, please contact Neal Kapadia at nrk220003@utdallas.edu.
